@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/Erik-Varga/powerbi-adventureworks-report.git
 git push -u origin main
 
-git remote add origin https://github.com/Erik-Varga/powerbi-adventureworks-report.git
-git branch -M main
-git push -u origin main
+git add .
+git commit -m "updated pdf"
+git push
 
